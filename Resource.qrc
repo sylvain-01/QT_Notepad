@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icon_images/Action-paste-icon.png</file>
+        <file>icon_images/Actions-help-about-icon.png</file>
+        <file>icon_images/Apps-Actions-Cut-icon.png</file>
+        <file>icon_images/copy-icon.png</file>
+        <file>icon_images/folder-open-icon.png</file>
+        <file>icon_images/new-file-icon.png</file>
+        <file>icon_images/Notepad-Bloc-notes-icon.png</file>
+        <file>icon_images/Redo-icon.png</file>
+        <file>icon_images/Save-as-icon.png</file>
+        <file>icon_images/Save-icon.png</file>
+        <file>icon_images/Undo-icon.png</file>
+        <file>icon_images/Printer-Ink-icon.png</file>
+        <file>icon_images/Editing-Bold-icon.png</file>
+        <file>icon_images/Editing-Italic-icon.png</file>
+    </qresource>
+</RCC>
